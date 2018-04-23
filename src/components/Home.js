@@ -20,14 +20,14 @@ export default function Home () {
         </div>
       </div> */}
 
-      <div className='container-fluid content-row' style={{paddingBottom: '5px'}}>
+      <div className='container-fluid' style={{paddingBottom: '5px'}}>
         <div className='row'>
-          <div class="col-sm-8 d-flex">
+          <div class="col-12">
             <img className='img-fluid' src={IMG_6662}/>
           </div>
-          <div class="col-sm-4 d-flex">
+          {/* <div class="col-4 d-flex">
             <img className='img-fluid' src={IMG_6663_1}/>
-          </div>
+          </div> */}
         </div>
 
       </div>

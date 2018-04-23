@@ -32,10 +32,10 @@ export default function Navbar () {
             </li>
             <li className="nav-item">
               <a href='https://www.instagram.com/tucquanstudio' target='_blank'>
-              <i className="fab fa-instagram fa-lg" style={{paddingTop: '18px'}}></i></a>
+              <i className="fab fa-instagram fa-lg" style={{paddingTop: '18px', color: 'black'}}></i></a>
             </li>
             <li className="nav-item">
-              <i className="fa fa-envelope-o fa-la"></i>
+              <i class="far fa-envelope fa-lg" style={{paddingTop: '18px'}}></i>
             </li>
           </ul>
         </div>
